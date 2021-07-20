@@ -1,0 +1,2 @@
+Host *
+  PreferredAuthentications gssapi-with-mic,hostbased,publickey,password,keyboard-interactive
